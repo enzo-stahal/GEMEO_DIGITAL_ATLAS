@@ -75,3 +75,7 @@ O console foi projetado utilizando códigos de escape ANSI através da bibliotec
 ###  Pré-requisitos do Sistema
 * Python 3.8 ou superior instalado.
 * Git configurado na máquina local.#
+
+### Links
+* https://www.tinkercad.com/things/iymAQeW3jbr-orbitalguard-capsule/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=WzrmQIC5-YkioZBe1BC4FCh8h4kmnPFBiPomy68lamQ
+* https://www.tinkercad.com/things/97YYsov7xxF-sistema-de-alerta/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=zlbJURifjFdIWg4Ao71toA1Pg6oZvJZo6ZSb4sFzYJM
